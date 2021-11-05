@@ -30,6 +30,4 @@ Then I implemented different models to classify the message as spam or not-spam.
 | XG Boost Classifier | 0.97908 | 0.95833 |
 
 
-| Naive Bayes (Multinominal) Training Set Accuracy  | Naive Bayes (Multinominal) Testing Set Accuracy |
-|:--------:|:------:|
-| ![MNB-accuracy-test]
+
